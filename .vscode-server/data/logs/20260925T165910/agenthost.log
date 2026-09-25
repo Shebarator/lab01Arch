@@ -1,0 +1,30 @@
+2026-09-25 16:59:11.781 [info] Agent Host process started successfully
+2026-09-25 16:59:11.833 [info] AgentService initialized
+2026-09-25 16:59:11.849 [info] Registering agent provider: copilotcli
+2026-09-25 16:59:11.857 [info] Registering agent provider: claude
+2026-09-25 16:59:11.903 [info] [WebSocketProtocol] Server listening on socket /tmp/vscode-ipc-79c5fe0e-a962-4beb-b033-55af5546e77c.sock
+2026-09-25 16:59:11.903 [info] [AgentHost] WebSocket server listening on /tmp/vscode-ipc-79c5fe0e-a962-4beb-b033-55af5546e77c.sock
+2026-09-25 16:59:11.909 [info] [Claude] Models refreshed (merged). Count: 0, 
+2026-09-25 16:59:11.949 [info] [CommandAutoApprover] Tree-sitter initialized (bash=available, powershell=available)
+2026-09-25 16:59:11.968 [info] [Copilot] Listing chats to migrate...
+2026-09-25 16:59:11.972 [info] [Copilot] Starting CopilotClient...
+2026-09-25 16:59:11.974 [info] [Copilot] Set CLI env: GITHUB_COPILOT_INTEGRATION_ID=vscode-chat
+2026-09-25 16:59:11.994 [info] [Copilot] Resolved CLI path: /vscode/vscode-server/bin/linux-x64/7debcd0e2acdea1c52de81bf9ee1620444407dda/node_modules/@github/copilot-linux-x64/index.js
+2026-09-25 16:59:12.009 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-25 16:59:13.211 [info] [ProtocolServer] Initialize: clientId=53c44b66-eccc-484f-876e-3d042263aa11, protocolVersions=[0.9.0, 0.7.0, 0.6.0, 0.5.2, 0.5.1]
+2026-09-25 16:59:13.379 [info] [AgentService] showExternalSessions changed 'none' -> 'recent'; queueing session list reconciliation
+2026-09-25 16:59:13.437 [info] [Copilot] Auto routing profiles toggled; refreshing models
+2026-09-25 16:59:13.439 [info] [Copilot] Auto routing profiles toggled; refreshing models
+2026-09-25 16:59:13.440 [info] [Copilot] Auto routing profiles toggled; refreshing models
+2026-09-25 16:59:13.440 [info] [Copilot] Auto routing profiles toggled; refreshing models
+2026-09-25 16:59:13.441 [info] [Copilot] Auto routing profiles toggled; refreshing models
+2026-09-25 16:59:13.442 [info] [Copilot] Auto routing profiles toggled; refreshing models
+2026-09-25 16:59:13.792 [info] [Copilot] CopilotClient started successfully
+2026-09-25 16:59:13.795 [info] [Copilot] Listed 0 SDK session(s) for chats to migrate
+2026-09-25 16:59:13.795 [info] [Copilot] Found 0 legacy sessions
+2026-09-25 16:59:13.842 [info] [Copilot] Listing discoverable chats...
+2026-09-25 16:59:13.846 [info] [Copilot] Listed 0 SDK session(s) for discoverable chats
+2026-09-25 16:59:13.848 [info] [AgentService] pruned 0 stale external session row(s) older than 30 days
+2026-09-25 16:59:13.849 [info] [Copilot] Chat discovery: 0 SDK session(s) -> 0 external, 0 adoptable legacy extension-host, 0 suppressed adoptable legacy extension-host, 0 suppressed archived legacy extension-host, 0 already known to Agent Host, 0 without a working directory, 0 with unsupported or missing client name, 0 outside the import window, 0 without repository metadata, 0 failed to classify (adopt legacy extension-host chats: false)
+2026-09-25 16:59:13.849 [info] [Claude] SDK not downloaded yet; deferring chat discovery
+2026-09-25 16:59:14.116 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list

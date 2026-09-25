@@ -1,0 +1,5 @@
+[user]
+	email = andrusnka.suvorov@yandex.ru
+	name = Shebarator
+[credential]
+	helper = "!f() { /home/vscode/.vscode-server/bin/7debcd0e2acdea1c52de81bf9ee1620444407dda/node /tmp/vscode-remote-containers-937c48ad-1b7a-4999-8808-5bdf7ad17042.js git-credential-helper $*; }; f"
